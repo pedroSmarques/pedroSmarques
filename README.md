@@ -3,7 +3,7 @@
 <p>
   <strong>Desenvolvedor Full Stack em formação</strong> · Rio de Janeiro, RJ<br>
   Estudante de Análise e Desenvolvimento de Sistemas (Unisuam) e do Técnico em Desenvolvimento de Sistemas (Senai Firjan).<br>
-  Em busca do meu primeiro estágio ou vaga júnior, com interesse especial em bancos e fintechs.
+  Em busca do meu primeiro estágio ou vaga júnior. Foco em IA, fintechs e bancos.
 </p>
 
 <p>
@@ -19,7 +19,9 @@
 
 ### Sobre mim
 
-Comecei pela lógica de programação em Portugol no Senai e hoje construo sistemas web de ponta a ponta: tela, regra de negócio e banco de dados.
+Minha jornada em TI começou em 2025, na faculdade de Análise e Desenvolvimento de Sistemas, na Unisuam. Para ganhar mais prática, fiz a qualificação profissional em Front-End no Senai Benfica. Depois, passei na prova e entrei no Técnico em Desenvolvimento de Sistemas no Senai Caxias.
+
+Hoje construo sistemas web de ponta a ponta: tela, regra de negócio e banco de dados. Meu próximo passo é me especializar em **Inteligência Artificial**. Quero trabalhar em fintechs, bancos e empresas que usam IA para aumentar a produtividade dos negócios.
 
 O projeto que mais me ensinou até agora é um **sistema de agendamento real** para o negócio da minha mãe, que trabalha com terapias integrativas. Ele tem site público, agendamento online e um painel administrativo com dashboard, agenda e controle de usuários. Organizei tudo em sprints, fazendo o papel de Product Owner, e usei IA como ferramenta de apoio no desenvolvimento, sempre entendendo e revisando o que entra no código.
 
