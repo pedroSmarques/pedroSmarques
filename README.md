@@ -53,7 +53,7 @@ O projeto que mais me ensinou até agora é um **sistema de agendamento real** p
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroSmarques&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroSmarques&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="160">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pedroSmarques&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroSmarques&theme=github_dark" alt="Linguagens por repositório" height="165">
 </p>
